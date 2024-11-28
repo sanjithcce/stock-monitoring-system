@@ -1,0 +1,1 @@
+# stock-monitoring-system
